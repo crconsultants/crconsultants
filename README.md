@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rob@crconsultants
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning about Internet in a Bo
+- 🌱 I’m currently learning about Internet in a Box and Ubuntu
 - 📫 How to reach me ...  here
 
 <!---
